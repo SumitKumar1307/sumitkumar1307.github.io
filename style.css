@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+body {
+    background-color: #282C34;
+}
+
+.heading {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.socials {
+    position: absolute;
+    top: 30%;
+    border-top: 1px solid #585C63;
+    border-right: 1px solid #585C63;
+    border-bottom: 1px solid #585C63;
+    border-radius: 20px;
+    /* background-color: blue; */
+    width: auto;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+li {
+    list-style-type: none;
+    align-items: center;
+}
+
+.main {
+    position: absolute;
+    top: 33.75%;
+    left: 10%;
+    border: 1px solid #585C63;
+    margin-left: 135px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 100px;
+    padding-left: 50px;
+    border-radius: 25px;
+}
+
+i {
+    /* margin-top: 20px; */
+    margin-top: 20px;
+    font-size: 25px;
+    /* margin-left: 20px;
+    margin-right: 20px; */
+    color: #585C63;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #585C63;
+    font-size: 20px;
+}
+
+img {
+    position: absolute;
+    top: 5%;
+    right: 10%;
+    /* border: 1px solid red; */
+}
